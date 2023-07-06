@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ptorioo" alt="ptorioo" /></a> </p>
 
-- 🔭 I’m currently working on [sdsWorkflow](https://github.com/Ptorioo/sds-workflow/)
-
-- 🌱 I’m currently learning **C/C++**
-
-- 📫 How to reach me **ntu not cool#1473**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/aK5Fcamqeq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aK5Fcamqeq" height="30" width="40" /></a>
